@@ -1,5 +1,5 @@
 import './CSS/style.css'
-import { setupCounter } from '../src/counter'
+import { setupCounter } from './counter'
 
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
